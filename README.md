@@ -8,4 +8,4 @@ while K < INDICE:
 
     SOMA = SOMA + K
     
-print(SOMA)
+print("O resultado da variável soma é {}".format(SOMA))
